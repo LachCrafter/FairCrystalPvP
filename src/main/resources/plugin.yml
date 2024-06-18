@@ -1,0 +1,4 @@
+name: FairCrystalPvP
+version: '${project.version}'
+main: eu.felicianware.faircrystalpvp.FairCrystalPvP
+api-version: '1.20'
